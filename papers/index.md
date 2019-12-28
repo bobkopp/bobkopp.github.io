@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 tags: [papers]
-modified: May 20 2019
+modified: December 28 2019
 comments: false
 share: false
 image:
@@ -37,6 +37,13 @@ image:
 
 ### Working papers and manuscripts in press
 
+* [Rasmussen, D. J., M. K. Buchanan, R. E. Kopp, and M. Oppenheimer (2019). A flood damage allowance framework for coastal protection with deep uncertainty in sea-level rise. arXiv: 1908.02844.](https://arxiv.org/abs/1908.02844)
+
+* [Vicedo-Cabrera, A., D. S. Goldfarb, R. E. Kopp, L. Song, and G. E. Tasian (2019). Sex Differences in the Temperature-Dependence of Kidney Stone Presentations: a Population-Based Aggregated Case-Crossover Study. _Urolithiasis_, in press. doi: 10.1007/s00240-019-01129-x.](http://doi.org/10.1007/s00240-019-01129-x)
+
+* [Gilford, D. M., E. L. Ashe, R. E. Kopp, R. M. DeConto, D. Pollard, and A. Rovere (in review). Can the Last Interglacial Constrain Projections of Future Antarctic Ice Mass Loss and Sea-level Rise? _Journal of Geophysical Research-Earth Surface_. doi: 10.1002/essoar.10501078.1.](http://doi.org/10.1002/essoar.10501078.1)
+
+* [Yuan, J., M. L. Stein, and R. E. Kopp (in review). The evolving distribution of relative humidity conditional upon daily maximum temperaturein a warming climate. _Journal of Geophysical Research_. doi: 10.1002/essoar.10501236.1.](http://doi.org/10.1002/essoar.10501236.1)
 
 * [Carleton, T., M. Delgado, M. Greenstone, S. Hsiang, A. Hultgren, A. Jina, R. E. Kopp, I. Nath, J. Rising, A. Rode, S. Seo, J. Simcock, A. Viaen, J. Yuan, and A. Zhang (2018). Valuing the Global Mortality Consequences of Climate Change Accounting for Adaptation Costs and Benefits. Working Paper 2018-51. University of Chicago, Becker Friedman Institute for Economics.](https://ssrn.com/abstract=3224365)
 
@@ -48,15 +55,26 @@ image:
 
 * [Ashe, E. L., N. Cahill, C. C. Hay, N. Khan, A. Kemp, S. Engelhart, B. P. Horton, A. Parnell, and R. E. Kopp (2019). Statistical modeling of rates and trends in Holocene sea level. _Quaternary Science Reviews_ 204, 58–77. doi: 10.1016/j.quascirev.2018.10.032.](https://doi.org/10.1016/j.quascirev.2018.10.032)
 
-* [Bamber, J. L., M. Oppenheimer, R. E. Kopp, W. Aspinall, and R. M. Cooke (2019). Ice sheet contributions to future sea level rise from structured expert judgement. _Proceedings of the National Academy of Sciences_. doi:10.1073/pnas.1817205116.](https://doi.org/10.1073/pnas.1817205116)
+* [Bamber, J. L., M. Oppenheimer, R. E. Kopp, W. Aspinall, and R. M. Cooke (2019). Ice sheet contributions to future sea level rise from structured expert judgement. _Proceedings of the National Academy of Sciences_ 116, 11195-11200. doi:10.1073/pnas.1817205116.](https://doi.org/10.1073/pnas.1817205116)
 
-* [Gregory, J., S. Griffies, C. Hughes, J. Lowe, J. Church, I. Fukumori, N. Gomez, R. Kopp, F. Landerer, R. Ponte, D. Stammer, M. Tamisiea, and R. van de Wal (2019). Concepts and terminology for sea level – mean, variability and change, both local and global. _Surveys in Geophysics_. doi:10.1007/s10712-019-09525-z.](https://doi.org/10.1007/s10712-019-09525-z)
+* [Capron, E., A. Rovere, J. Austermann, Y. Axford, N. L. M. Barlow, A. E. Carlson, A. de Vernal, A. Dutton, R. E. Kopp, J. F. McManus, L. Menviel, B. L. Otto-Bliesner, A. Robinson, J. D. Shakun, P. C. Tzedakis, and E. W. Wolff (2019). Challenges and Research Priorities to Understand Interactions between Climate, Ice Sheets and Global Mean Sea Level during Past Interglacials. _Quaternary Science Reviews_ 219, 308–311. doi: 10.1016/j.quascirev.2019.06.030.](http://doi.org/10.1016/j.quascirev.2019.06.030)
+
+* [Ciscar, J.-C., J. Rising, R. E. Kopp, and L. Feyen (2019). Assessing future climate change impacts in the EU and the USA: insights and lessons from two continental-scale projects. _Environmental Research Letters_ 14, 084010. doi: 10.1088/1748-9326/ab281e.](http://doi.org/10.1088/1748-9326/ab281e)
+
+* [Gornitz, V., M. Oppenheimer, R. Kopp, P. Orton, M. Buchanan, N. Lin, R. Horton, and D. Bader (2019). New York City Panel on Climate Change 2019 Report Chapter 3: Sea Level Rise. _Annals of the New York Academy of Sciences_ 1439(1), 71–94. doi: 10.1111/nyas.14006.](http://doi.org/10.1111/nyas.14006)
+
+* [Gregory, J., S. Griffies, C. Hughes, J. Lowe, J. Church, I. Fukumori, N. Gomez, R. Kopp, F. Landerer, R. Ponte, D. Stammer, M. Tamisiea, and R. van de Wal (2019). Concepts and terminology for sea level – mean, variability and change, both local and global. _Surveys in Geophysics_ 40, 1251-1289. doi:10.1007/s10712-019-09525-z.](https://doi.org/10.1007/s10712-019-09525-z)
 
 * [Hall, J. A., C. P. Weaver, J. Obeysekera, M. Crowell, R. M. Horton, R. E. Kopp, J. Marburger, D. C. Marcy, A. Parris, W. V. Sweet, and W. C. Veatch (2019). Rising Sea Levels: Helping Decision-Makers Confront the Inevitable. _Coastal Management_ 47, 127-150. doi: 10.1080/08920753.2019.1551012.](http://doi.org/10.1080/08920753.2019.1551012)
 
-* [Shwom, R. L. and R. E. Kopp (2019). Long-term risk governance: When do societies act before crisis? _Journal of Risk Research_. doi: 10.1080/13669877.2018.1476900.](http://dx.doi.org/10.1080/13669877.2018.1476900)
+* [Jevrejeva, S., T. Frederikse, R. E. Kopp, G. Le Cozannet, L. P. Jackson, and R. S. W. van de Wal (2019). Probabilistic sea level projections at the coast by 2100. _Surveys in Geophysics_ 40, 1673–1696. doi: 10.1007/s10712-019-09550-y.](http://doi.org/10.1007/s10712-019-09550-y)
 
-* [Garcıa-Artola, A., P. Stéphan, A. Cearreta, R. E. Kopp, N. S. Khan, and B. P. Horton (2018). Holocene sea- level database from the Atlantic coast of Europe. _Quaternary Science Reviews_ 196, 177–192. doi: 10.1016/j.quascirev.2018.07.031.](http://dx.doi.org/10.1016/j.quascirev.2018.07.031)
+
+* [Kopp, R. E., E. A. Gilmore, C. M. Little, J. Lorenzo Trueba, V. C. Ramenzoni, and W. V. Sweet (2019). Usable Science for Managing the Risks of Sea-Level Rise. _Earth’s Future_ 7. doi: 10.1029/2018EF001145.](http://doi.org/10.1029/2018EF001145)
+
+* [Shwom, R. L. and R. E. Kopp (2019). Long-term risk governance: When do societies act before crisis? _Journal of Risk Research_ 22, 1374–1390. doi: 10.1080/13669877.2018.1476900.](http://dx.doi.org/10.1080/13669877.2018.1476900) [[SSRN version](http://doi.org/10.2139/ssrn.3230337 )]
+
+* [García-Artola, A., P. Stéphan, A. Cearreta, R. E. Kopp, N. S. Khan, and B. P. Horton (2018). Holocene sea- level database from the Atlantic coast of Europe. _Quaternary Science Reviews_ 196, 177–192. doi: 10.1016/j.quascirev.2018.07.031.](http://dx.doi.org/10.1016/j.quascirev.2018.07.031)
 
 * [Garner, A. J., J. L. Weiss, A. Parris, R. E. Kopp, R. M. Horton, J. T. Overpeck, and B. P. Horton (2018). Evolution of 21st Century Sea-level Rise Projections. _Earth's Future_ 6, 1603-1615. doi: 10.1029/2018EF000991.](http://doi.org/10.1029/2018EF000991)
 
@@ -228,7 +246,11 @@ image:
 
 ### Reports, book chapters, and theses
 
-* [D. R. Morrow, R. E. Kopp and M. Oppenheimer (forthcoming). Research ethics and geoengineering. In: _Geoengineering our Climate?: Ethics, Politics and Governance_. (J. Blackstock, C. Miller, and S. Rayner, eds.) Oxford: Earthscan.](http://tinyurl.com/morrow2013)
+* [Hess, H., M. Delgado, A. Hamidi, T. Houser, R. Kopp, I. Bolliger, S. Hsiang, and M. Greenstone (2019). _New Jersey’s Rising Coastal Risk_. Tech. rep. Rhodium Group.](https://rhg.com/research/new-jersey-flooding-hurricanes-costs-climatechange/)
+
+* [Kopp, R. E. et al (2019). _New Jersey’s Rising Seas and Changing Coastal Storms: Report of the 2019 Science and Technical Advisory Panel_. Tech. rep. Trenton, New Jersey: Rutgers, The State University of New Jersey. Prepared for the New Jersey Department of Environmental Protection.](https://climatechange.rutgers.edu/resources/climate-change-and-new-jersey/nj-sea-level-rise-reports)
+
+* [D. R. Morrow, R. E. Kopp and M. Oppenheimer (2018). Research ethics and geoengineering. In: _Geoengineering our Climate?: Ethics, Politics and Governance_. (J. Blackstock, C. Miller, and S. Rayner, eds.) London: Earthscan, pp. 187-189.](http://tinyurl.com/morrow2013)
 
 * [G. Griggs, J. Árvai, D. Cayan, R. DeConto, J. Fox, H. A. Fricker, R. E. Kopp, C. Tebaldi, and E. A. Whiteman (2017). _Rising seas in California: An update on sea-level rise science._ California Ocean Science Trust, 71 pp.](http://www.opc.ca.gov/webmaster/ftp/pdf/docs/rising-seas-in-california-an-update-on-sea-level-rise-science.pdf)
 
