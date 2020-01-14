@@ -2,7 +2,7 @@
 layout: page-noauthor
 title: Rutgers Earth System Science & Policy Lab
 tags: [about]
-modified: March 7 2019
+modified: January 14 2020
 comments: false
 share: false
 image:
@@ -43,22 +43,13 @@ change and on the interactions between physical climate change and the economy.
 
 ### Research Faculty
 
-#### [Andra Garner](https://sites.google.com/site/andrajreed/)
+#### [Greg Garner](https://sites.google.com/site/gggarner121/)
 {:.no_toc}
 
 <div>
-<a href="https://sites.google.com/site/andrajreed/"><div style="float:right; margin: 20px; max-width: 150px"><img src="portraits/andragarner.jpg"></div></a>
-I am a climate scientist and meteorologist interested in studying the impacts of a changing climate on natural hazards.  In the past, my research has included studies investigating the changing flood risk in New York City from the past millennium through 2300 CE due to tropical cyclones, storm surge, and sea-level rise.  I have also worked on projects related to the evolution of  sea-level rise projections, which included the development of a comprehensive database of global sea-level rise projections for the year 2100.  Currently, I am continuing research related to the impacts of a changing climate on natural hazards, including increasing flood risks associated with tsunamis and sea-level rise, evolving characteristics of tropical cyclones in a changing climate, and changing flood risks related to storm surge and rising sea levels.  In addition to working on innovative research projects related to climate change, I am committed to bringing this important science to the public.  I have spoken about my work to a wide range of audiences at a number of venues, ranging from the NJ March for Science 2018 to high school classrooms. 
+<a href="https://sites.google.com/site/gggarner121/"><div style="float: right; margin: 20px; max-width: 200px"><img src="portraits/greggarner.jpg"></div></a>
+I am a meteorologist and climate scientist working on a comprehensive computational framework for projecting sea-level rise in a changing climate.  Broadly, I’m interested in how people use tools and information to inform decisions.  This has afforded me the opportunity to study a diverse range of topics including weather, climate change, atmospheric chemistry, air quality, robust decision making, sea-level rise, heatwaves, and more alongside experts in social sciences, statistics, economics, philosophy, mathematics, and engineering.  I use state-of-the-art optimization tools, statistical methods, integrated assessment models, and data analysis to investigate complex problems across multiple disciplines.  I emphasize the importance of science communication throughout my research by publishing with open-access (when available), performing science-outreach activities, and sharing the products of my work through web-based tools and code repositories.
 </div>
-
-#### [Jiacan Yuan](http://www.meteo.psu.edu/~juy17/)
-{:.no_toc}
-
-<div>
-<a href="http://www.meteo.psu.edu/~juy17/"><div style="float:right; margin: 20px; max-width: 150px"><img src="portraits/jiacanyuan.jpg"></div></a>
-I am a climatologist who is interested in understanding the fundamental dynamical processes in the atmosphere and improving climate models, which could give us better predictive power and risk assessment of the changing climate. My research apparatus is built with a fusion of advanced statistical methods, idealized general circulation models (GCM), and state of the art climate models. At present, my research is focused on assessing economic risks from the projection of future climate. I have worked on several projects on climate dynamics, including the response of large-scale circulations in the warming climate, its effects on regional weather patterns and extreme events, tropical influence on midlatitude weather, and dynamical mechanisms of subseasonal variability of midlatitude jet streams.  </div>
-
-
 
 ### Postdocs
 
@@ -84,24 +75,11 @@ I am a climate scientist interested in the answering the question "How do distan
 phenomena evolve and affect me and my community?" My primary research focuses the deep uncertainties in polar ice-sheet contributions to global and local sea level rise. I use a blend of statistical and machine learning techniques to study ice-sheet model emulation, the emergence of Antarctic contributions to sea level rise, and paleoclimate/observational constraints on ice-sheet model projections. I studied Atmospheric Science with Prof. Susan Solomon at the Massachusetts Institute of Technology, and received my doctorate degree in 2018. My graduate research fused middle atmospheric chemistry, radiation, and tropical cyclone theory to explore tropopause region influences on hurricane intensities. I’m motivated to work on societally relevant problems and science communication, and I aspire to connect science and communities.
 </div>
 
-#### [Greg Garner](https://sites.google.com/site/gggarner121/)
+
+#### [Jennifer Walker](https://scholar.google.com/citations?user=0Co0dxEAAAAJ&hl=en&oi=sra)
 {:.no_toc}
 
-<div>
-<a href="https://sites.google.com/site/gggarner121/"><div style="float: right; margin: 20px; max-width: 200px"><img src="portraits/greggarner.jpg"></div></a>
-I am a meteorologist and climate scientist working on a comprehensive computational framework for projecting sea-level rise in a changing climate.  Broadly, I’m interested in how people use tools and information to inform decisions.  This has afforded me the opportunity to study a diverse range of topics including weather, climate change, atmospheric chemistry, air quality, robust decision making, sea-level rise, heatwaves, and more alongside experts in social sciences, statistics, economics, philosophy, mathematics, and engineering.  I use state-of-the-art optimization tools, statistical methods, integrated assessment models, and data analysis to investigate complex problems across multiple disciplines.  I emphasize the importance of science communication throughout my research by publishing with open-access (when available), performing science-outreach activities, and sharing the products of my work through web-based tools and code repositories.
-</div>
-
-#### [Dawei Li](https://scholar.google.com/citations?user=qfAPnEIAAAAJ&hl=en&oi=sra)
-{:.no_toc}
-
-<div>
-<a href="https://scholar.google.com/citations?user=qfAPnEIAAAAJ&hl=en&oi=sra">
-<div style="float: right; margin: 20px; max-width: 200px">
-<img src="portraits/daweili.jpg"></div></a>
-I consider myself a theorist, a modeler, and above all, a perpetual learner. I'm enchanted by the variety of ways that fundamental physical laws — fluid dynamics, thermodynamics, and radiative transfer — can be blended to address complex problems in a hierarchy of models. Specifically, the central topics of my research have been the large-scale flows of atmosphere, ocean, and ice, as well as the dramatic climate changes in the past and at present.
-To gain a holistic understanding, I prefer a top-down, minimalist approach to attack any new problem, often starting from the simplest one of the climate model hierarchy — a single column radiative-convective model or one-dimensional energy balance model — to get a first-order grasp, and then moving to more complex, but still idealized GCMs to investigate the features that deem unrepresentable in a "lesser" model. A model would be made just as comprehensive as it needs to be to grasp the essence of the targeted problem, but is no more complex that elegance should be sacrificed for the sake of getting details right.
-</div>
+<a href="https://scholar.google.com/citations?user=0Co0dxEAAAAJ&hl=en&oi=sra"><img src="portraits/jwalker.jpg"></a>
 
 #### [Laura Reynolds](https://scholar.google.com/citations?hl=en&user=dsGpWHcAAAAJ)
 {:.no_toc}
@@ -154,8 +132,11 @@ Megan is a PhD student at MIT working with advisor Susan Solomon.  She researche
 #### Postdocs
 {:.no_toc}
 
+* [Andra Garner](https://sites.google.com/site/andrajreed/home?authuser=0)
 * [Carling Hay](http://www.carlinghay.com)
+* [Dawei Li](https://scholar.google.com/citations?user=qfAPnEIAAAAJ&hl=en&oi=sra)
 * [Eric Morrow](http://www.ericmorrow.ca)
+* [Jiacan Yuan](https://www.researchgate.net/profile/Jiacan_Yuan)
 
 #### Graduate students co-advised
 {:.no_toc}
