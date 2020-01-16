@@ -88,7 +88,7 @@ phenomena evolve and affect me and my community?" My primary research focuses th
 <a href="https://scholar.google.com/citations?hl=en&user=dsGpWHcAAAAJ">
 <div style="float: right; margin: 20px; max-width: 200px">
 <img src="portraits/laurareynolds.jpg"></div></a>
-I am a sedimentary geologist who studies how coastlines evolve over time. I am interested in how sediments in salt marshes and other coastal environments archive changes in sea level, tectonics, climate, and human influence. My projects have included reconstructions of relative sea level and the identification of flood deposits and evidence for coseismic subsidence in the coastal stratigraphic record. In my current research, I am working with an interdisciplinary team to build more realistic sediment dynamics into models of future tidal marsh response to sea level rise, with the ultimate goal of integrating models of physical processes in tidal marshes with ecological models of species' population chang
+I am a sedimentary geologist who studies how coastlines evolve over time. I am interested in how sediments in salt marshes and other coastal environments archive changes in sea level, tectonics, climate, and human influence. My projects have included reconstructions of relative sea level and the identification of flood deposits and evidence for coseismic subsidence in the coastal stratigraphic record. In my current research, I am working with an interdisciplinary team to build more realistic sediment dynamics into models of future tidal marsh response to sea level rise, with the ultimate goal of integrating models of physical processes in tidal marshes with ecological models of species' population change.
 </div>
 
 ### Graduate students
@@ -104,8 +104,8 @@ I am a geoscientist interested in using evidence of past climate change to impro
 {: .no_toc}
 
 <div>
-<a href="http://www.djrasmussen.co"><div style="float: right; margin: 20px; max-width: 150px"><img src="portraits/djrasmussen.png"></div></a>
-DJ’s interests lie at the intersection of climate, policy, and the economy. He uses computational models and large data sets to assess risks posed by weather and climate. DJ was a research fellow at the National Oceanic and Atmospheric Administration’s (NOAA) Geophysical Fluid Dynamics Laboratory (GFDL). He later contributed to the physical climate projection work for the technical analysis underlying the Risky Business Project — an initiative to quantify and publicize the economic risks from the impacts of a changing climate — and was more recently a senior associate engineer at Ramboll Environ, located in the San Francisco Bay Area. DJ has a BS in atmospheric science and an MS in civil and environmental engineering.</div>
+<a href="http://www.djrasmussen.co"><div style="float: right; margin: 20px; max-width: 150px"><img src="portraits/djrasmussen.jpg"></div></a>
+I study both the physical and social science aspects of sea-level rise and coastal floods. My career goal is to produce new research that equips coastal stakeholders with information that can aid decisions on coastal flood protection strategies. My hope is that these efforts will lead to future planning and policies that save money and protect human lives. Recently, I’ve been developing a framework for designing coastal flood protection under uncertain sea-level rise. I also examine the politics surrounding efforts to conceive, design, and implement coastal flood protection mega-projects, such as storm surge barriers. I expect to complete my PhD in Public Policy & International Affairs in 2020, and I also have a BS in Atmospheric & Oceanic Science and an MS in Civil & Environmental Engineering.</div>
 
 ### External Affiliates
 
