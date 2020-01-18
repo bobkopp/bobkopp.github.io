@@ -79,8 +79,12 @@ phenomena evolve and affect me and my community?" My primary research focuses th
 #### [Jennifer Walker](https://scholar.google.com/citations?user=0Co0dxEAAAAJ&hl=en&oi=sra)
 {:.no_toc}
 
-<a href="https://scholar.google.com/citations?user=0Co0dxEAAAAJ&hl=en&oi=sra"><img src="portraits/jwalker.jpg"></a>
+<div>
+<a href="httphttps://scholar.google.com/citations?user=0Co0dxEAAAAJ&hl=en&oi=sra"><div style="float: right; margin: 20px; max-width: 200px"><img src="portraits/jwalker.jpg"></div></a>
 
+  I am broadly interested in sea level research and climate and how sea level rise into the future will affect coastal communities. My research examines past sea-level change to bridge the gap between short-term instrumental records and long-term geological reconstructions and to better understand future sea-level rise under changing climate. I focus on reconstructing Holocene sea-level changes along the U.S. Atlantic coast using biological and geological indicators. These proxies are used to quantify rates of sea-level change and examine spatial and temporal variability. The goal of this research is to improve understanding of past sea level to better predict how sea level rise into the future will affect coastal systems and coastal communities.
+  </div>
+  
 #### [Laura Reynolds](https://scholar.google.com/citations?hl=en&user=dsGpWHcAAAAJ)
 {:.no_toc}
 
