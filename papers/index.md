@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 tags: [papers]
-modified: December 28 2019
+modified: January 22 2020
 comments: false
 share: false
 image:
@@ -70,7 +70,7 @@ image:
 * [Jevrejeva, S., T. Frederikse, R. E. Kopp, G. Le Cozannet, L. P. Jackson, and R. S. W. van de Wal (2019). Probabilistic sea level projections at the coast by 2100. _Surveys in Geophysics_ 40, 1673–1696. doi: 10.1007/s10712-019-09550-y.](http://doi.org/10.1007/s10712-019-09550-y)
 
 
-* [Kopp, R. E., E. A. Gilmore, C. M. Little, J. Lorenzo Trueba, V. C. Ramenzoni, and W. V. Sweet (2019). Usable Science for Managing the Risks of Sea-Level Rise. _Earth’s Future_ 7. doi: 10.1029/2018EF001145.](http://doi.org/10.1029/2018EF001145)
+* [Kopp, R. E., E. A. Gilmore, C. M. Little, J. Lorenzo Trueba, V. C. Ramenzoni, and W. V. Sweet (2019). Usable Science for Managing the Risks of Sea-Level Rise. _Earth’s Future_ 7, 1235-1269. doi: 10.1029/2018EF001145.](http://doi.org/10.1029/2018EF001145)
 
 * [Shwom, R. L. and R. E. Kopp (2019). Long-term risk governance: When do societies act before crisis? _Journal of Risk Research_ 22, 1374–1390. doi: 10.1080/13669877.2018.1476900.](http://dx.doi.org/10.1080/13669877.2018.1476900) [[SSRN version](http://doi.org/10.2139/ssrn.3230337 )]
 

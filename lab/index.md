@@ -2,7 +2,7 @@
 layout: page-noauthor
 title: Rutgers Earth System Science & Policy Lab
 tags: [about]
-modified: January 14 2020
+modified: January 28 2020
 comments: false
 share: false
 image:
@@ -75,15 +75,7 @@ I am a climate scientist seeking to answer the question "How do aspects of clima
 </div>
 
 
-#### [Jennifer Walker](https://scholar.google.com/citations?user=0Co0dxEAAAAJ&hl=en&oi=sra)
-{:.no_toc}
 
-<div>
-<a href="httphttps://scholar.google.com/citations?user=0Co0dxEAAAAJ&hl=en&oi=sra"><div style="float: right; margin: 20px; max-width: 200px"><img src="portraits/jwalker.jpg"></div></a>
-
-  I am broadly interested in sea level research and climate and how sea level rise into the future will affect coastal communities. My research examines past sea-level change to bridge the gap between short-term instrumental records and long-term geological reconstructions and to better understand future sea-level rise under changing climate. I focus on reconstructing Holocene sea-level changes along the U.S. Atlantic coast using biological and geological indicators. These proxies are used to quantify rates of sea-level change and examine spatial and temporal variability. The goal of this research is to improve understanding of past sea level to better predict how sea level rise into the future will affect coastal systems and coastal communities.
-  </div>
-  
 #### [Laura Reynolds](https://scholar.google.com/citations?hl=en&user=dsGpWHcAAAAJ)
 {:.no_toc}
 
@@ -94,7 +86,24 @@ I am a climate scientist seeking to answer the question "How do aspects of clima
 I am a sedimentary geologist who studies how coastlines evolve over time. I am interested in how sediments in salt marshes and other coastal environments archive changes in sea level, tectonics, climate, and human influence. My projects have included reconstructions of relative sea level and the identification of flood deposits and evidence for coseismic subsidence in the coastal stratigraphic record. In my current research, I am working with an interdisciplinary team to build more realistic sediment dynamics into models of future tidal marsh response to sea level rise, with the ultimate goal of integrating models of physical processes in tidal marshes with ecological models of species' population change.
 </div>
 
+#### [Jennifer Walker](https://scholar.google.com/citations?user=0Co0dxEAAAAJ&hl=en&oi=sra)
+{:.no_toc}
+
+<div>
+<a href="httphttps://scholar.google.com/citations?user=0Co0dxEAAAAJ&hl=en&oi=sra"><div style="float: right; margin: 20px; max-width: 200px"><img src="portraits/jwalker.jpg"></div></a>
+
+  I am broadly interested in sea level research and climate and how sea level rise into the future will affect coastal communities. My research examines past sea-level change to bridge the gap between short-term instrumental records and long-term geological reconstructions and to better understand future sea-level rise under changing climate. I focus on reconstructing Holocene sea-level changes along the U.S. Atlantic coast using biological and geological indicators. These proxies are used to quantify rates of sea-level change and examine spatial and temporal variability. The goal of this research is to improve understanding of past sea level to better predict how sea level rise into the future will affect coastal systems and coastal communities.
+  </div>
+  
 ### Graduate students
+
+#### [Laura Geronimo (Bloustein School)](https://www.linkedin.com/in/laura-geronimo-34b33636/)
+{: .no_toc}
+
+<div>
+<a href="https://www.linkedin.com/in/laura-geronimo-34b33636/"><div style="float: right; margin: 20px; max-width: 150px"><img src="portraits/laurageronimo.jpg"></div></a>
+I am pursuing a PhD in Planning and Public Policy at the Bloustein School. My research interest lies at the intersection of coastal climate risk and resilience, land use planning, and social equity issues. I plan to apply mixed methods and transdisciplinary research approaches to better understand how communities are adapting to coastal hazards. Along with the physical risks that threaten coastal communities (e.g.: sea level rise, storms and storm surge, erosion), I study the spatial distribution of social vulnerability, patterns of coastal development, and the political, institutional, and practical barriers to implementing efficient and equitable adaptation strategies. I am currently developing a research design to evaluate equity considerations in federally funded property-acquisition programs. I graduated from Georgia Tech with a Master’s degree in City and Regional Planning in 2019. Prior to Georgia Tech I spent 5 years in Puerto Rico where I worked in climate change adaptation and hazard mitigation planning. </div>
+
 
 #### [Kristen Joyse (Earth and Planetary Sciences)](http://geology.rutgers.edu/people-directory/24-graduate-students/707-kristen-joyse)
 {: .no_toc}
