@@ -23,7 +23,7 @@ image:
 </p>
 </div>
 
-Robert Kopp serves at [Rutgers University](http://www.rutgers.edu/) as Director of the [Rutgers Institute of Earth, Ocean & Atmospheric Sciences](http://eoas.rutgers.edu/) and as a professor in the [Department of Earth & Planetary Sciences](http://geology.rutgers.edu/).
+Robert Kopp is a climate scientist who serves at [Rutgers University](http://www.rutgers.edu/) as Director of the [Rutgers Institute of Earth, Ocean & Atmospheric Sciences](http://eoas.rutgers.edu/) and as a professor in the [Department of Earth & Planetary Sciences](http://geology.rutgers.edu/).
 
 He also co-directs Rutgers' transdisciplinary [Coastal Climate Risk & Resilience (C2R2) initiative](http://c2r2.rutgers.edu), a training program which brings graduate students in the natural sciences, social sciences, engineering, and urban planning together with coastal stakeholders to tackle the challenges that climate change poses to the world's coastlines.
 
