@@ -2,7 +2,7 @@
 layout: page
 title: Biography
 tags: [about]
-modified: December 28 2019
+modified: January 30 2020
 comments: false
 share: false
 image:
@@ -23,7 +23,7 @@ image:
 </p>
 </div>
 
-Robert Kopp serves at [Rutgers University](http://www.rutgers.edu/) as Director of the [Institute of Earth, Ocean & Atmospheric Sciences](http://eoas.rutgers.edu/) and as a professor in the [Department of Earth & Planetary Sciences](http://geology.rutgers.edu/).
+Robert Kopp serves at [Rutgers University](http://www.rutgers.edu/) as Director of the [Rutgers Institute of Earth, Ocean & Atmospheric Sciences](http://eoas.rutgers.edu/) and as a professor in the [Department of Earth & Planetary Sciences](http://geology.rutgers.edu/).
 
 He also co-directs Rutgers' transdisciplinary [Coastal Climate Risk & Resilience (C2R2) initiative](http://c2r2.rutgers.edu), a training program which brings graduate students in the natural sciences, social sciences, engineering, and urban planning together with coastal stakeholders to tackle the challenges that climate change poses to the world's coastlines.
 
@@ -34,6 +34,8 @@ Professor Kopp's research focuses on understanding uncertainty in past and futur
 Professor Kopp is a lead author of the [Intergovernmental Panel on Climate Change’s](http://www.ipcc.ch/) forthcoming (2021) Sixth Assessment Report, the U.S. Global Change Research Program's 2017 [_Climate Science Special Report_](https://science2017.globalchange.gov) and [_Economic Risks of Climate Change: An American Prospectus_](http://www.climateprospectus.org/).  He is a member of the National Academy of Sciences' [Board on Atmospheric Sciences and Climate](http://www.dels.nas.edu/basc/) and was a committee member for the 2015-2017 [National Academies Project on Assessing Approaches to Updating the Social Cost of Carbon](https://www.nap.edu/catalog/24651/valuing-climate-damages-updating-estimation-of-the-social-cost-of). He was also a contributing author to both Working Groups 1 (Physical Science) and 2 (Impacts, Adaptation, and Vulnerability) of the [Intergovernmental Panel on Climate Change](http://www.ipcc.ch)’s 2014 Fifth Assessment Report. 
 
 He has served on sea-level rise expert groups for the states of [New Jersey](https://climatechange.rutgers.edu/resources/climate-change-and-new-jersey), [Maryland](http://www.umces.edu/sea-level) and [California](http://www.oceansciencetrust.org/projects/updating-californias-sea-level-rise-guidance/) and the cities of [Boston](https://www.boston.gov/departments/environment/climate-ready-boston) and [New York](http://www1.nyc.gov/site/orr/challenges/nyc-panel-on-climate-change.page).
+
+Professor Kopp is currently serving at Rutgers as co-chair of the [President's Task Force on Carbon Neutrality and Climate Resilience](https://climatetaskforce.rutgers.edu/). The Task Force developing a comprehensive Climate Action Plan for Rutgers that will identify pathways to achieving carbon neutrality, ways to reduce the university’s vulnerability to climate impacts, and approaches to leveraging the State University of New Jersey to catalyze climate action throughout New Jersey.
 
 In addition to the Rutgers  [Department of Earth & Planetary Sciences](http://geology.rutgers.edu/) and [Rutgers Institute of Earth, Ocean, and Atmospheric Sciences](http://eoas.rutgers.edu),
 Professor Kopp is a member of the [Rutgers Climate Institute](http://climatechange.rutgers.edu) and the [Rutgers Energy Institute](http://rei.rutgers.edu/). He is affiliated with Rutgers graduate programs in [Atmospheric Sciences](http://atmos.rutgers.edu), [Geological Sciences](http://eps.rutgers.edu), [Oceanography](http://marine.rutgers.edu), [Statistics](http://statistics.rutgers.edu), and [Planning and Public Policy](http://policy.rutgers.edu/).
