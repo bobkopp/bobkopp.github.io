@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 tags: [papers]
-modified: January 22 2020
+modified: June 18 2020
 comments: false
 share: false
 image:
@@ -37,21 +37,37 @@ image:
 
 ### Working papers and manuscripts in press
 
-* [Rasmussen, D. J., M. K. Buchanan, R. E. Kopp, and M. Oppenheimer (2019). A flood damage allowance framework for coastal protection with deep uncertainty in sea-level rise. arXiv: 1908.02844.](https://arxiv.org/abs/1908.02844)
-
-* [Vicedo-Cabrera, A., D. S. Goldfarb, R. E. Kopp, L. Song, and G. E. Tasian (2019). Sex Differences in the Temperature-Dependence of Kidney Stone Presentations: a Population-Based Aggregated Case-Crossover Study. _Urolithiasis_, in press. doi: 10.1007/s00240-019-01129-x.](http://doi.org/10.1007/s00240-019-01129-x)
-
-* [Gilford, D. M., E. L. Ashe, R. E. Kopp, R. M. DeConto, D. Pollard, and A. Rovere (in review). Can the Last Interglacial Constrain Projections of Future Antarctic Ice Mass Loss and Sea-level Rise? _Journal of Geophysical Research-Earth Surface_. doi: 10.1002/essoar.10501078.1.](http://doi.org/10.1002/essoar.10501078.1)
-
-* [Yuan, J., M. L. Stein, and R. E. Kopp (in review). The evolving distribution of relative humidity conditional upon daily maximum temperaturein a warming climate. _Journal of Geophysical Research_. doi: 10.1002/essoar.10501236.1.](http://doi.org/10.1002/essoar.10501236.1)
-
-* [Carleton, T., M. Delgado, M. Greenstone, S. Hsiang, A. Hultgren, A. Jina, R. E. Kopp, I. Nath, J. Rising, A. Rode, S. Seo, J. Simcock, A. Viaen, J. Yuan, and A. Zhang (2018). Valuing the Global Mortality Consequences of Climate Change Accounting for Adaptation Costs and Benefits. Working Paper 2018-51. University of Chicago, Becker Friedman Institute for Economics.](https://ssrn.com/abstract=3224365)
-
-* [Desmet, K., R. Kopp, S. A. Kulp, D. K. Nagy, M. Oppenheimer, E. Rossi-Hansberg, and B. H. Strauss (2018). Evaluating the economic cost of coastal flooding. Working Paper 24918. National Bureau of Economic Research.](http://www.nber.org/papers/w24918)
 
 * [Behar, D., R. Kopp, R. DeConto, C. Weaver, K. White, K. May, and R. Bindschadler (2017). “Planning for Sea Level Rise: An AGU Talk in the Form of a Co-Production Experiment Exploring Recent Science”.](https://www.wucaonline.org/assets/pdf/pubs-agu-consensus-statement.pdf)
 
+* [Desmet, K., R. Kopp, S. A. Kulp, D. K. Nagy, M. Oppenheimer, E. Rossi-Hansberg, and B. H. Strauss (2018). Evaluating the economic cost of coastal flooding. Working Paper 24918. National Bureau of Economic Research.](http://www.nber.org/papers/w24918)
+
+* [Carleton, T., M. Delgado, M. Greenstone, S. Hsiang, A. Hultgren, A. Jina, R. E. Kopp, I. Nath, J. Rising, A. Rode, S. Seo, J. Simcock, A. Viaen, J. Yuan, and A. Zhang (2019). Valuing the Global Mortality Consequences of Climate Change Accounting for Adaptation Costs and Benefits. Working Paper 2018-51. University of Chicago, Becker Friedman Institute for Economics.](https://ssrn.com/abstract=3224365)
+
+* [Baranes, H. E., J. D. Woodruff, S. A. Talke, R. E. Kopp, R. D. Ray, and R. M. DeConto (in review). Tidally-driven interannualy variation in extreme sea level probabilities in the Gulf of Mexico. Journal of Geophysical Research. doi: 10.1002/essoar.10502738.1.](https://doi.org/10.1002/essoar.10502881.1)
+
+* [Gilford, D. M., E. L. Ashe, R. E. Kopp, R. M. DeConto, D. Pollard, and A. Rovere (in review). Can the Last Interglacial Constrain Projections of Future Antarctic Ice Mass Loss and Sea-level Rise? _Journal of Geophysical Research-Earth Surface_. doi: 10.1002/essoar.10501078.1.](http://doi.org/10.1002/essoar.10501078.1)
+
+* [Rasmussen, D. J., R. E. Kopp, R. L. Shwom, and M. Oppenheimer (in review). The politics of natural hazard preparedness and infrastructure: lessons for coastal defense and other climate adaptation public works. _Earth’s Future_. doi: 10.1002/essoar.10502705.1.](https://doi.org/10.1002/essoar.10502705.1)
+
+* [Yuan, J., M. L. Stein, and R. E. Kopp (in review). The evolving distribution of relative humidity conditional upon daily maximum temperaturein a warming climate. _Journal of Geophysical Research_. doi: 10.1002/essoar.10501236.1.](http://doi.org/10.1002/essoar.10501236.1)
+
+
 ### Journal articles
+
+* [Frederikse, T., M. K. Buchanan, E. Lambert, R. E. Kopp, M. Oppenheimer, D. Rasmussen, and R. S. W. van de Wal (2020). The role of emission scenarios and Antarctica in 21st century extreme water level changes. _Nature Communications_ 11, 390. doi: 10.1038/s41467-019-14049-6.](https://doi.org/10.1038/s41467-019-14049-6)
+
+* [Hamlington, B. D., A. S. Gardner, E. Ivins, J. T. Lenaerts, J. Reager, D. S. Trossman, E. D. Zaron, S. Adhikari, A. Arendt, A. Aschwanden, et al. (2020). Understanding of Contemporary Regional Sea-level Change and the Implications for the Future. _Reviews of Geophysics_, e2019RG000672. doi: 10.1029/2019RG000672.](https://doi.org/10.1029/2019RG000672)
+
+* [Hawley, W. B., C. C. Hay, J. X. Mitrovica, and R. E. Kopp (2020). A Spatially Variable Time Series of Sea Level Change due to Artificial Water Impoundment. _Earth’s Future_. doi: 10.1029/2020EF001497.](https://doi.org/10.1029/2020EF001497)
+
+* [Li, D., J. Yuan, and R. E. Kopp (2020). Escalating Global Exposure to Compound Heat-Humidity Extremes with Warming. _Environmental Research Letters_ 15, 064003. doi: 10.1088/1748-9326/ab7d04.](https://doi.org/10.1088/1748-9326/ab7d04)
+
+* [Miller, K., J. Browning, W. Schmelz, R. Kopp, G. Mountain, and J. Wright (2020). Cenozoic sea-level and cryospheric evolution from deep-sea geochemical and continental margin records. _Science Advances_ 6, eaaz1346. doi: 10.1126/sciadv.aaz1346.](https://doi.org/10.1126/sciadv.aaz1346)
+
+* [Rasmussen, D. J., M. K. Buchanan, R. E. Kopp, and M. Oppenheimer (2020). A flood damage allowance framework for coastal protection with deep uncertainty in sea-level rise. _Earth’s Future_ 8, e2019EF001340. doi: 10.1029/2019EF001340.](https://doi.org/10.1029/2019EF001340)
+
+* [Vicedo-Cabrera, A., D. S. Goldfarb, R. E. Kopp, L. Song, and G. E. Tasian (2020). Sex Differences in the Temperature-Dependence of Kidney Stone Presentations: a Population-Based Aggregated Case-Crossover Study. _Urolithiasis_ 48, 37–46. doi: 10.1007/s00240-019-01129-x.](https://doi.org/10.1007/s00240-019-01129-x)
 
 * [Ashe, E. L., N. Cahill, C. C. Hay, N. Khan, A. Kemp, S. Engelhart, B. P. Horton, A. Parnell, and R. E. Kopp (2019). Statistical modeling of rates and trends in Holocene sea level. _Quaternary Science Reviews_ 204, 58–77. doi: 10.1016/j.quascirev.2018.10.032.](https://doi.org/10.1016/j.quascirev.2018.10.032)
 
@@ -73,6 +89,8 @@ image:
 * [Kopp, R. E., E. A. Gilmore, C. M. Little, J. Lorenzo Trueba, V. C. Ramenzoni, and W. V. Sweet (2019). Usable Science for Managing the Risks of Sea-Level Rise. _Earth’s Future_ 7, 1235-1269. doi: 10.1029/2018EF001145.](http://doi.org/10.1029/2018EF001145)
 
 * [Shwom, R. L. and R. E. Kopp (2019). Long-term risk governance: When do societies act before crisis? _Journal of Risk Research_ 22, 1374–1390. doi: 10.1080/13669877.2018.1476900.](http://dx.doi.org/10.1080/13669877.2018.1476900) [[SSRN version](http://doi.org/10.2139/ssrn.3230337 )]
+
+* [Wrathall, D. et al. (2019). Meeting the challenge of future migration from global sea-level change. _Nature Climate Change_ 9, 898–903. doi: 10.1038/s41558-019-0640-4.](https://doi.org/10.1038/s41558-019-0640-4)
 
 * [García-Artola, A., P. Stéphan, A. Cearreta, R. E. Kopp, N. S. Khan, and B. P. Horton (2018). Holocene sea- level database from the Atlantic coast of Europe. _Quaternary Science Reviews_ 196, 177–192. doi: 10.1016/j.quascirev.2018.07.031.](http://dx.doi.org/10.1016/j.quascirev.2018.07.031)
 
@@ -246,6 +264,8 @@ image:
 
 ### Reports, book chapters, and theses
 
+* Ferraro, C., R. Jordan, R. E. Kopp, S. L. Bond, J. Gong, C. J. Andrews, L. M. Auermuller, J. Herb, and J. McDonnell (2020). “Training Students to Improve Coastal Resilience”. In: _Preparing Students for Community-Engaged Scholarship in Higher Education_. Ed. by A. S. Zimmerman. Hershey, PA: IGI Global, pp. 347–360.
+
 * [Hess, H., M. Delgado, A. Hamidi, T. Houser, R. Kopp, I. Bolliger, S. Hsiang, and M. Greenstone (2019). _New Jersey’s Rising Coastal Risk_. Tech. rep. Rhodium Group.](https://rhg.com/research/new-jersey-flooding-hurricanes-costs-climatechange/)
 
 * [Kopp, R. E. et al (2019). _New Jersey’s Rising Seas and Changing Coastal Storms: Report of the 2019 Science and Technical Advisory Panel_. Tech. rep. Trenton, New Jersey: Rutgers, The State University of New Jersey. Prepared for the New Jersey Department of Environmental Protection.](https://climatechange.rutgers.edu/resources/climate-change-and-new-jersey/nj-sea-level-rise-reports)
@@ -309,6 +329,8 @@ image:
 * [Guest co-editor (with R. Tol and S. Waldhoff), _Economics_ special issue (2012). _The Social Cost of Carbon_.](http://www.economics-ejournal.org/special-areas/special-issues/the-social-cost-of-carbon)
 
 ### Popular publications
+
+* [Kopp, R. E. (2020). “Sea Level Rise, 1970–2070: A View from the Future”. In: _Earth 2020: An insider’s guide to a rapidly changing planet_. Ed. by P. D. Tortell. Cambridge, UK: Open Book Publishers. doi: 10.11647/OBP.0193.16.](https://doi.org/10.11647/OBP.0193.16)
 
 * [Kopp, R. (2019). Climate research needs to change to help communities plan for the future. _The Conversation_, 5 April 2019.](https://bit.ly/2I7jmSz)
 
