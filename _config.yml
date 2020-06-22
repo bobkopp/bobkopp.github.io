@@ -29,7 +29,7 @@ kramdown:
 owner:
   name: Bob Kopp
   avatar: bio-photo.jpg
-  bio: "Climate scientist, geobiologist, and climate policy scholar at <a href=\"http://www.rutgers.edu/\">Rutgers University</a>'s <a href=\"http://eps.rutgers.edu/\">Dept. of Earth & Planetary Sciences<a> and <a href=\"http://eoas.rutgers.edu/\">Institute of Earth, Ocean & Atmospheric Sciences</a>."
+  bio: "Climate and sea-level scientist and climate policy scholar at <a href=\"http://www.rutgers.edu/\">Rutgers University</a>'s <a href=\"http://eps.rutgers.edu/\">Dept. of Earth & Planetary Sciences<a> and <a href=\"http://eoas.rutgers.edu/\">Rutgers Institute of Earth, Ocean & Atmospheric Sciences</a>."
   fullbio: /about/
   contact-page: /contact/
   cv: /cv.pdf
