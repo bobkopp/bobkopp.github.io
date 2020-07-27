@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "It may take decades to determine how high sea level will rise"
 excerpt: "Our new study links a framework for global and local sea-level rise projections with simulations of two major mechanisms by which climate change can affect the vast Antarctic ice sheet. "
 tags: [sea level]

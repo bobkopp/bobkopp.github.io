@@ -1,10 +1,12 @@
 ---
-layout: page
-excerpt: "Bob Kopp (Robert E. Kopp) is a climate scientist, geobiologist, and climate policy scholar at Rutgers University."
-image:
-  feature: near-ilulissat.jpg
-
-share: false
+layout: single
+title: " "
+excerpt: " "
+header:
+  overlay_color: "#000"
+  overlay_filter: "0"
+  overlay_image: /assets/images/near-ilulissat.jpg
+author_profile: true
 ---
 
 I am a climate scientist, geobiologist, and climate policy scholar. I serve at [Rutgers University](http://www.rutgers.edu/) as Director of the [Rutgers Institute of Earth, Ocean & Atmospheric Sciences](http://eoas.rutgers.edu/) and as a professor in
@@ -14,7 +16,7 @@ I also co-direct Rutgers' transdisciplinary [Coastal Climate Risk & Resilience (
 
 I'm one of the directors of the [Climate Impact Lab](http://www.impactlab.org), a collaboration of more than two dozen climate scientists, economists, data scientists and policy scholars, working to bring Big Data approaches to the assessment of the economic risks of climate change.
 
-<div style="float: left; margin: 20px; max-width: 150px; box-shadow: 10px 10px 5px #888888; border:  1px solid gray;"><a href="http://www.climateprospectus.org" target="_blank"><img src="images/EconomicRisksOfCC.jpg"></a></div>
+<div style="float: left; margin: 20px; max-width: 150px; box-shadow: 10px 10px 5px #888888; border:  1px solid gray;"><a href="http://www.climateprospectus.org" target="_blank"><img src="/assets/images/EconomicRisksOfCC.jpg"></a></div>
 
 My [research](research/) focuses on understanding uncertainty in past and future climate change, with major emphases on sea-level change and on the interactions between physical climate change and the economy.
 
@@ -26,28 +28,12 @@ In addition to the  Rutgers  [Department of Earth & Planetary Sciences](http://g
 
 Prior to joining the Rutgers faculty, I served as a [AAAS Science & Technology Policy Fellow](http://fellowships.aaas.org/) in the [U.S. ](http://www.energy.gov)[Department of Energy](http://www.energy.gov)'s Office of Policy and International Affairs and as a [Science, Technology, and Environmental Policy](http://www.princeton.edu/step/) postdoctoral research fellow at Princeton University. I received my Ph.D. in geobiology from Caltech and my undergraduate degree in geophysical sciences from the University of Chicago. 
 
- <div id="index" style="width: 100%" >
-     {% for post in site.posts limit:1 %}
-    <h2><a href="{{ site.url}}/posts/">Recent Posts</a></h2>
-    {% endfor %}
-  {% for post in site.posts limit:5 %}    
-    <article>
-      {% if post.link %}
-        <h4 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a></h4>
-      {% else %}
-        <h4><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h4>
-        <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
-      {% endif %}
-    </article>
-    {% endfor %}
-	
-	</div><!-- /#index -->
-
+ 
 #### [In the media](http://www.google.com/search?hl=en&gl=us&tbm=nws&q="Robert+Kopp"+OR+"Bob+Kopp"+Rutgers)
 
 * [Science on the Hill (June 2020)](https://bit.ly/2YbqNPi)
 * [NJTV News (December 2019)](https://bit.ly/35PRhXP)
-* [_The Conversation_ (April 2019)](https://theconversation.com/climate-research-needs-to-change-to-help-communities-plan-for-the-future-113427)
+* [_The Conversation_ (Apil 2019)](https://theconversation.com/climate-research-needs-to-change-to-help-communities-plan-for-the-future-113427)
 * [Resources Radio (January 2019)](https://soundcloud.com/resourcesradio/demystifying-sea-level-rise-with-robert-kopp-of-rutgers-university)
 * [Radio Times with Mary Cummings-Jordan [WHYY] (November 2018)](https://goo.gl/H2Q4oa)
 * [Science Friday (November 2018)](https://goo.gl/JVgHNp)
@@ -63,5 +49,22 @@ Prior to joining the Rutgers faculty, I served as a [AAAS Science & Technology P
 * [_Rutgers Today_ (Dec. 2014)](http://news.rutgers.edu/feature/earth-scientists-urgent-mission-takes-shape-rutgers/20141217)
 * [Radio Times with Marty Moss-Coane [WHYY] (July 2014)](http://goo.gl/DfPnc9)
 * [_New York Times_ Sunday Review (Nov. 2012)](http://nyti.ms/TcArGg)
+
+<div id="index" style="width: 100%" >
+     {% for post in site.posts limit:1 %}
+    <h2><a href="{{ site.url}}/posts/">Recent Posts</a></h2>
+    {% endfor %}
+  {% for post in site.posts limit:3 %}    
+    <article>
+      {% if post.link %}
+        <h4 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a></h4>
+      {% else %}
+        <h4><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h4>
+        <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
+      {% endif %}
+    </article>
+    {% endfor %}
+	
+	</div><!-- /#index -->
 
 

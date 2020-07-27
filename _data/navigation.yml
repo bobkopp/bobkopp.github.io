@@ -1,10 +1,9 @@
-# Site navigation links
-
+main:
 - title: Bio
   url: /about/
 
 - title: Lab
-  url: http://www.earthscipol.net/
+  url: https://earthscipol.net/
 
 - title: Research
   url: /research/
@@ -24,3 +23,5 @@
 - title: Impact
   url: /impact/
 
+- title: Contact
+  url: /contact/

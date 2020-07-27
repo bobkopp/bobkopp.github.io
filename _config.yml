@@ -1,42 +1,64 @@
-# Site wide configuration
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title:            Bob Kopp
-locale:           en_US
-#url:             http://www.bobkopp.net
-#sharing_url:	  http://www.bobkopp.net
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Bob Kopp
+email: robert-dot-kopp-at-rutgers.edu
+twitter: bobkopp
+description: "Climate and sea-level scientist and climate policy scholar at Rutgers University"
+twitter_username: bobkopp
+github_username: bobkopp
+minimal_mistakes_skin: default
+search: true
 
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+# Outputting
+permalink: /:categories/:title/
+#paginate: 5 # amount of posts to show
+#paginate_path: /page:num/
+timezone: America/NewYork
 
-# Jekyll configuration
+include:
+  - _pages
 
-permalink:   /:categories/:title/
-markdown:    kramdown
-highlighteurlr: pygments
-sass:
-  sass_dir: _sass
-  style: compressed
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Plugins (previously gems:)
 plugins:
+  - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
 
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  enable_coderay: false
-
-
-# Site owner
-owner:
-  name: Bob Kopp
-  avatar: bio-photo.jpg
-  bio: "Climate and sea-level scientist and climate policy scholar at <a href=\"http://www.rutgers.edu/\">Rutgers University</a>'s <a href=\"http://eps.rutgers.edu/\">Dept. of Earth & Planetary Sciences<a> and <a href=\"http://eoas.rutgers.edu/\">Rutgers Institute of Earth, Ocean & Atmospheric Sciences</a>."
-  fullbio: /about/
-  contact-page: /contact/
-  cv: /cv.pdf
+author:
+  name   : "Bob Kopp"
   email: robert-dot-kopp-at-rutgers-dot-edu
-  disqus-shortname: 
   twitter: bobkopp
-  facebook: #username
   orcid: 0000-0003-4016-9428
   google:
     scholar: ceifbhUAAAAJ
@@ -45,22 +67,54 @@ owner:
     verify: BsWKbKNA7xX7WMDhjR1e8jo-77vRXLvbUF4nk995egs
     ad-client: 
     ad-slot: 
-  bing-verify: 
-  github: #username
-  stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #bobkopp
-  xing: #username
-  instagram: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "Climate and sea-level scientist and climate policy scholar at <a href=\"http://www.rutgers.edu/\">Rutgers University</a>'s <a href=\"http://eps.rutgers.edu/\">Dept. of Earth & Planetary Sciences<a> and <a href=\"http://eoas.rutgers.edu/\">Rutgers Institute of Earth, Ocean & Atmospheric Sciences</a>."
+  links:
+    - label: "Google Scholar"
+      icon: "fab fa-google"
+      url: "https://scholar.google.com/citations?user=ceifbhUAAAAJ"
+    - label: "ORCID"
+      icon: "fab fa-orcid"
+      url: "http://orcid.org/0000-0003-4016-9428"
 
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/bobkopp"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/bobkopp"
+    - label: "Google Scholar"
+      icon: "fab fa-google"
+      url: "https://scholar.google.com/citations?user=ceifbhUAAAAJ"
+    - label: "ORCID"
+      icon: "fab fa-orcid"
+      url: "http://orcid.org/0000-0003-4016-9428"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/

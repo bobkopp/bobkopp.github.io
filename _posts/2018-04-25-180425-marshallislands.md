@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Sea-level rise will likely render atolls uninhabitable in the lifetime of the Marshall Islands’ youth – but not in the next two decades"
 excerpt: "The threat of sea-level rise does not just come from the permanent encroachment of the ocean upon the land. It comes – and sooner – from the way in which a higher mean sea level provides a higher base upon which storms, tides, and waves can flood the land and invade groundwater supplies."
 tags: [sea level]
