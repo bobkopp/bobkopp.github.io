@@ -4,7 +4,7 @@ title: "Contact"
 author-profile: true
 ---
 
-<div style="margin: 10px; font-size: small" itemscope itemtype="http://schema.org/Person">
+<div style="margin: 10px" itemscope itemtype="http://schema.org/Person">
 <p>
   <a href="mailto:{{ site.email }}" class="author-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a> <br />
  <a href="http://twitter.com/{{ site.twitter }}" class="author-social" target="_blank"><i class="fab fa-fw fa-twitter"></i> Twitter</a> <br />

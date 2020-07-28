@@ -5,17 +5,14 @@ main:
 - title: Lab
   url: https://earthscipol.net/
 
-- title: Research
-  url: /research/
-
-- title: Teaching
-  url: /teaching/
-
 - title: Papers
   url: /papers/
   
 - title: Presentations
   url: /presentations/
+
+- title: Teaching
+  url: /teaching/
 
 - title: Code
   url: /software/
