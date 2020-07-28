@@ -3,9 +3,7 @@ layout: single
 title: " "
 excerpt: " "
 header:
-  overlay_color: "#000"
-  overlay_filter: "0"
-  overlay_image: /assets/images/near-ilulissat.jpg
+  image: /assets/images/near-ilulissat.jpg
 author_profile: true
 ---
 
