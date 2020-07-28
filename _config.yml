@@ -67,15 +67,9 @@ author:
     verify: BsWKbKNA7xX7WMDhjR1e8jo-77vRXLvbUF4nk995egs
     ad-client: 
     ad-slot: 
+  orcid: 0000-0003-4016-9428
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Climate and sea-level scientist and climate policy scholar at <a href=\"http://www.rutgers.edu/\">Rutgers University</a>'s <a href=\"http://eps.rutgers.edu/\">Dept. of Earth & Planetary Sciences<a> and <a href=\"http://eoas.rutgers.edu/\">Rutgers Institute of Earth, Ocean & Atmospheric Sciences</a>."
-  links:
-    - label: "Google Scholar"
-      icon: "fab fa-google"
-      url: "https://scholar.google.com/citations?user=ceifbhUAAAAJ"
-    - label: "ORCID"
-      icon: "fab fa-orcid"
-      url: "http://orcid.org/0000-0003-4016-9428"
 
 footer:
   links:
