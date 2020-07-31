@@ -1,10 +1,11 @@
 main:
-- title: Bio
-  url: /about/
 
 - title: Lab
   url: https://earthscipol.net/
 
+- title: Bio
+  url: /about/
+  
 - title: Papers
   url: /papers/
   
@@ -13,12 +14,6 @@ main:
 
 - title: Teaching
   url: /teaching/
-
-- title: Code
-  url: /software/
-
-- title: Impact
-  url: /impact/
 
 - title: Contact
   url: /contact/
