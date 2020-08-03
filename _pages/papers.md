@@ -2,6 +2,7 @@
 permalink: /papers/
 title: "Publications"
 toc: true
+modified: 3 August 2020
 ---
 
 ### Books
@@ -17,7 +18,8 @@ toc: true
 
 * [Desmet, K., R. Kopp, S. A. Kulp, D. K. Nagy, M. Oppenheimer, E. Rossi-Hansberg, and B. H. Strauss (2018). Evaluating the economic cost of coastal flooding. Working Paper 24918. National Bureau of Economic Research.](http://www.nber.org/papers/w24918)
 
-* [Carleton, T., M. Delgado, M. Greenstone, S. Hsiang, A. Hultgren, A. Jina, R. E. Kopp, I. Nath, J. Rising, A. Rode, S. Seo, J. Simcock, A. Viaen, J. Yuan, and A. Zhang (2019). Valuing the Global Mortality Consequences of Climate Change Accounting for Adaptation Costs and Benefits. Working Paper 2018-51. University of Chicago, Becker Friedman Institute for Economics.](https://ssrn.com/abstract=3224365)
+* [Carleton, T., A. Jina, M. T. Delgado, M. Greenstone, T. Houser, S. M. Hsiang, A. Hultgren, R. E. Kopp,
+K. E. McCusker, I. Nath, J. Rising, A. Rode, H. K. Seo, A. Viaen, J. Yuan, and A. T. Zhang (2020). Valuing the Global Mortality Consequences of Climate Change Accounting for Adaptation Costs and Benefits. Working Paper 27599. National Bureau for Economic Research.](http://www. nber.org/papers/w27599)
 
 * [Baranes, H. E., J. D. Woodruff, S. A. Talke, R. E. Kopp, R. D. Ray, and R. M. DeConto (in review). Tidally-driven interannualy variation in extreme sea level probabilities in the Gulf of Mexico. Journal of Geophysical Research. doi: 10.1002/essoar.10502738.1.](https://doi.org/10.1002/essoar.10502881.1)
 
