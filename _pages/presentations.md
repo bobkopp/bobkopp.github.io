@@ -8,7 +8,7 @@ toc: true
 
   * ["Sea Level Rise in New Jersey," New Jersey Climate Change Resource Center Summer Climate Academy. June 3, 2020.](https://youtu.be/xgN71gsFQwQ)
   
-  * ["Understanding and managing the risks of climate change," Panel on Climate Disasters and Green New Deal, New School for Social Research, New York, NY, September 3, 2019.](https://youtu.be/ wBjgfRy1ANE?t=2527)
+  * ["Understanding and managing the risks of climate change," Panel on Climate Disasters and Green New Deal, New School for Social Research, New York, NY, September 3, 2019.](https://youtu.be/wBjgfRy1ANE?t=2527)
   
   * ["Managing Coastal Risk in an Age of Sea-Level Rise," Princeton Plasma Physics Lab Science on Saturday, Princeton, NJ, March 2, 2019.](https://www.pppl.gov/events/ science-saturday-managing-coastal-risk-age-sea-level-rise)
   
