@@ -2,7 +2,7 @@
 permalink: /papers/
 title: "Publications"
 toc: true
-modified: 3 August 2020
+modified: 2 February 2021
 ---
 
 ### Books
@@ -29,6 +29,8 @@ K. E. McCusker, I. Nath, J. Rising, A. Rode, H. K. Seo, A. Viaen, J. Yuan, and A
 
 * [Yuan, J., M. L. Stein, and R. E. Kopp (in review). The evolving distribution of relative humidity conditional upon daily maximum temperaturein a warming climate. _Journal of Geophysical Research_. doi: 10.1002/essoar.10501236.1.](http://doi.org/10.1002/essoar.10501236.1)
 
+
+* [Kopp, R. E. (in press). Land-grant lessons for Anthropocene universities. _Climatic Change_.](/assets/pdf/Kopp2021-AnthropoceneLandGrant.pdf)
 
 ### Journal articles
 

@@ -31,7 +31,7 @@ Prior to joining the Rutgers faculty, I served as a [AAAS Science & Technology P
 
 * [Science on the Hill (June 2020)](https://bit.ly/2YbqNPi)
 * [NJTV News (December 2019)](https://bit.ly/35PRhXP)
-* [_The Conversation_ (Apil 2019)](https://theconversation.com/climate-research-needs-to-change-to-help-communities-plan-for-the-future-113427)
+* [_The Conversation_ (April 2019)](https://theconversation.com/climate-research-needs-to-change-to-help-communities-plan-for-the-future-113427)
 * [Resources Radio (January 2019)](https://soundcloud.com/resourcesradio/demystifying-sea-level-rise-with-robert-kopp-of-rutgers-university)
 * [Radio Times with Mary Cummings-Jordan [WHYY] (November 2018)](https://goo.gl/H2Q4oa)
 * [Science Friday (November 2018)](https://goo.gl/JVgHNp)
