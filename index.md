@@ -7,21 +7,18 @@ header:
 author_profile: true
 ---
 
-I am a climate scientist, geobiologist, and climate policy scholar. I serve at [Rutgers University](http://www.rutgers.edu/) as Director of the [Rutgers Institute of Earth, Ocean & Atmospheric Sciences](http://eoas.rutgers.edu/) and as a professor in
-the [Department of Earth & Planetary Sciences](http://geology.rutgers.edu/).  
+I am a climate and sea-level scientist and a climate policy scholar. I serve at [Rutgers University](http://www.rutgers.edu/) as a professor in
+the [Department of Earth & Planetary Sciences](http://geology.rutgers.edu/) and as co-director of the [University Office of Climate Action](https://www.rutgers.edu/strategy/office-of-climate-action).  
 
-I also co-direct Rutgers' transdisciplinary [Coastal Climate Risk & Resilience (C2R2) initiative](http://c2r2.rutgers.edu), a training program which brings graduate students in the natural sciences, social sciences, engineering, and urban planning together with coastal stakeholders to tackle the challenges that climate change poses to the world's coastlines.
+I direct the [Megalopolitan Coastal Transformation Hub](https://www.coastalhub.org/), an NSF-funded consortium Megapolitan Coastal Transformation Hub (MACH) that works within the Philadelphia-New York City-New Jersey region to both 1) facilitate flexible, equitable, and robust multidecadal planning to manage climate risk, and 2) advance the scientific understanding of how interactions among coastal climate hazards, changing landforms, and human decisions shape climate risk.  
 
-I'm one of the directors of the [Climate Impact Lab](http://www.impactlab.org), a collaboration of more than two dozen climate scientists, economists, data scientists and policy scholars, working to bring Big Data approaches to the assessment of the economic risks of climate change.
+I'm one of the directors of the [Climate Impact Lab](http://www.impactlab.org), a collaboration of more than three dozen climate scientists, economists, data scientists and policy scholars, working to bring Big Data approaches to the assessment of the economic risks of climate change.
 
-<div style="float: left; margin: 20px; max-width: 150px; box-shadow: 10px 10px 5px #888888; border:  1px solid gray;"><a href="http://www.climateprospectus.org" target="_blank"><img src="/assets/images/EconomicRisksOfCC.jpg"></a></div>
+My [research](research/) focuses on understanding uncertainty in past and future climate change, with major emphases on sea-level change, the interactions between physical climate change and the economy, and the use of climate risk information to inform decisionmaking.
 
-My [research](research/) focuses on understanding uncertainty in past and future climate change, with major emphases on sea-level change and on the interactions between physical climate change and the economy.
+I am a lead author of the [Intergovernmental Panel on Climate Change’s](http://www.ipcc.ch/) 2021 Sixth Assessment Report, the U.S. Global Change Research Program's 2017 [Fourth National Climate Assessment](https://science2017.globalchange.gov) and [_Economic Risks of Climate Change: An American Prospectus_](http://www.climateprospectus.org/). I have also served on sea-level rise expert groups for several states and cities. 
 
-I am a lead author of the [Intergovernmental Panel on Climate Change’s](http://www.ipcc.ch/) forthcoming (2021) Sixth Assessment Report, the U.S. Global Change Research Program's 2017 [_Climate Science Special Report_](https://science2017.globalchange.gov) and [_Economic Risks of Climate Change: An American Prospectus_](http://www.climateprospectus.org/). I was a contributing author to the [Intergovernmental Panel on Climate Change](http://www.ipcc.ch)’s Fifth Assessment Report, and have served on sea-level rise expert groups for several states and cities. 
-
-In addition to the  Rutgers  [Department of Earth & Planetary Sciences](http://geology.rutgers.edu/) and the
-[Rutgers Institute of Earth, Ocean, and Atmospheric Sciences](http://eoas.rutgers.edu/), I am also a member of the [Rutgers Climate Institute](http://climatechange.rutgers.edu) and the [Rutgers Energy Institute](http://rei.rutgers.edu/). I am affiliated with Rutgers graduate programs in [Atmospheric Sciences](http://atmos.rutgers.edu), [Geological Sciences](http://eps.rutgers.edu), [Oceanography](http://marine.rutgers.edu), [Statistics](http://statistics.rutgers.edu), and [Planning and Public Policy](http://policy.rutgers.edu/).
+From 2017-2021, I served as director of the In addition to the [Rutgers Institute of Earth, Ocean, and Atmospheric Sciences (EOAS)](http://eoas.rutgers.edu/). In addition to the  [Department of Earth & Planetary Sciences](http://geology.rutgers.edu/) and EOAS, I am also a member of the [Rutgers Climate Institute](http://climatechange.rutgers.edu) and the [Rutgers Energy Institute](http://rei.rutgers.edu/). I am affiliated with Rutgers graduate programs in [Atmospheric Sciences](http://atmos.rutgers.edu), [Geological Sciences](http://eps.rutgers.edu), [Oceanography](http://marine.rutgers.edu), [Statistics](http://statistics.rutgers.edu), and [Planning and Public Policy](http://policy.rutgers.edu/).
 
 
 Prior to joining the Rutgers faculty, I served as a [AAAS Science & Technology Policy Fellow](http://fellowships.aaas.org/) in the [U.S. ](http://www.energy.gov)[Department of Energy](http://www.energy.gov)'s Office of Policy and International Affairs and as a [Science, Technology, and Environmental Policy](http://www.princeton.edu/step/) postdoctoral research fellow at Princeton University. I received my Ph.D. in geobiology from Caltech and my undergraduate degree in geophysical sciences from the University of Chicago. 
@@ -29,11 +26,13 @@ Prior to joining the Rutgers faculty, I served as a [AAAS Science & Technology P
  
 #### [In the media](http://www.google.com/search?hl=en&gl=us&tbm=nws&q="Robert+Kopp"+OR+"Bob+Kopp"+Rutgers)
 
+* [Radio Times [WHYY] (August 2021)][https://bit.ly/3CJi5ds]
+* [Climate Now (April 2021)][https://bit.ly/3b5iria]
 * [Science on the Hill (June 2020)](https://bit.ly/2YbqNPi)
 * [NJTV News (December 2019)](https://bit.ly/35PRhXP)
 * [_The Conversation_ (April 2019)](https://theconversation.com/climate-research-needs-to-change-to-help-communities-plan-for-the-future-113427)
 * [Resources Radio (January 2019)](https://soundcloud.com/resourcesradio/demystifying-sea-level-rise-with-robert-kopp-of-rutgers-university)
-* [Radio Times with Mary Cummings-Jordan [WHYY] (November 2018)](https://goo.gl/H2Q4oa)
+* [Radio Times [WHYY] (November 2018)](https://goo.gl/H2Q4oa)
 * [Science Friday (November 2018)](https://goo.gl/JVgHNp)
 * [E&E News Off Topic (November 2018)](https://goo.gl/M2FfqL)
 * [Reddit AMA (December 2017)](https://doi.org/10.15200/winn.151213.32636)
