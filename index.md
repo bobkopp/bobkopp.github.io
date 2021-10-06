@@ -26,8 +26,8 @@ Prior to joining the Rutgers faculty, I served as a [AAAS Science & Technology P
  
 #### [In the media](http://www.google.com/search?hl=en&gl=us&tbm=nws&q="Robert+Kopp"+OR+"Bob+Kopp"+Rutgers)
 
-* [Radio Times [WHYY] (August 2021)][https://bit.ly/3CJi5ds]
-* [Climate Now (April 2021)][https://bit.ly/3b5iria]
+* [Radio Times [WHYY] (August 2021)](https://bit.ly/3CJi5ds)
+* [Climate Now (April 2021)](https://bit.ly/3b5iria)
 * [Science on the Hill (June 2020)](https://bit.ly/2YbqNPi)
 * [NJTV News (December 2019)](https://bit.ly/35PRhXP)
 * [_The Conversation_ (April 2019)](https://theconversation.com/climate-research-needs-to-change-to-help-communities-plan-for-the-future-113427)
