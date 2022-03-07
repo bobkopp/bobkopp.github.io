@@ -9,7 +9,7 @@ title: "About"
 
 Robert Kopp is a climate scientist who serves at [Rutgers University](http://www.rutgers.edu/) as a professor in the [Department of Earth & Planetary Sciences](http://geology.rutgers.edu/) and co-director of the [University Office of Climate Action](https://www.rutgers.edu/strategy/office-of-climate-action).  
 
-He directs the [Megalopolitan Coastal Transformation Hub](https://www.coastalhub.org/), a National Science Foundation-funded consortium Megapolitan Coastal Transformation Hub (MACH) that works within the Philadelphia-New York City-New Jersey region to both 1) facilitate flexible, equitable, and robust multidecadal planning to manage climate risk, and 2) advance the scientific understanding of how interactions among coastal climate hazards, changing landforms, and human decisions shape climate risk.  
+He directs the [Megalopolitan Coastal Transformation Hub](https://www.coastalhub.org/) (MACH), a National Science Foundation-funded, 12-university consortium led by Rutgers University. MACH works within the Philadelphia-New York City-New Jersey region to both 1) facilitate flexible, equitable, and robust multidecadal planning to manage climate risk, and 2) advance the scientific understanding of how interactions among coastal climate hazards, changing landforms, and human decisions shape climate risk.  
 
 
 He also directs Rutgers' transdisciplinary [Coastal Climate Risk & Resilience (C2R2) initiative](http://c2r2.rutgers.edu), a training program which brings graduate students in the natural sciences, social sciences, engineering, and urban planning together with coastal stakeholders to tackle the challenges that climate change poses to the world's coastlines.
