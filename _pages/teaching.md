@@ -25,7 +25,7 @@ This course will prepare students to become informed citizens of our empowered g
 {:.no_toc}
 
 
-[[Syllabus]](/assets/syllabi/2016SpringClimateRiskSeminarsyllabus.pdf)
+[[Syllabus]](/assets/syllabi/2021SpringClimateRiskSeminarsyllabus.pdf)
 
 From Superstorm Sandy to the most extensive drought since the 1930s: in 2012, the hottest year on record in the contiguous United States, weather- and climate-related disasters cost Americans more than $110 billion. As climate change intensifies over the course of the century, climate models project that heat waves will become more frequent and intense and that intense downpours will become more common. Sea level rise will increase the flooding associated with storm events. If greenhouse gas emissions continue unabated through the end of the 22nd cenutry, significant parts of the eastern United States may become physiologically uninhabitable during the hottest days of the summer. This graduate course will examine the natural science, impact science and economic literature on the uncertainties and risks associated with climate change, and the challenges of linking together research in these disciplines.
 
