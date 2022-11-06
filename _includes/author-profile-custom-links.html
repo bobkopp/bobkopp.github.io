@@ -1,4 +1,12 @@
 
+    {% if author.mastodon %}
+      <li>
+        <a rel="me" href="{{ author.mastodon.url }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
+          <i class="fab fa-mastodon" aria-hidden="true"></i><span class="label">Mastodon</span>
+        </a>
+      </li>
+    {% endif %}
+
     {% if author.google.scholar %}
       <li>
         <a href="https://scholar.google.com/citations?user={{ author.google.scholar }}" itemprop="sameAs" rel="nofollow noopener noreferrer">

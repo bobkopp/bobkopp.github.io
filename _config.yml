@@ -58,6 +58,9 @@ plugins:
 author:
   name   : "Bob Kopp"
   email: robert-dot-kopp-at-rutgers-dot-edu
+  mastodon:
+    id: bobkopp@fediscience.org
+    url: https://fediscience.org/@bobkopp
   twitter: bobkopp
   orcid: 0000-0003-4016-9428
   google:
@@ -73,6 +76,9 @@ author:
 
 footer:
   links:
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://fediscience.org/@bobkopp"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/bobkopp"
