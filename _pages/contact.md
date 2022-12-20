@@ -7,7 +7,7 @@ author-profile: true
 <div style="margin: 10px" itemscope itemtype="http://schema.org/Person">
 <p>
   <a href="mailto:{{ author.email }}" class="author-social" target="_blank"><i class="fab fa-fw fa-mastodon"></i> Email</a> <br />
- <a href="{{ author.mastodon.url }}" class="author-social" target="_blank"><i class="fab fa-fw fa-twitter"></i> Mastodon</a> <br />
+ <a href="{{ sirte.mastodon.url }}" class="author-social" target="_blank"><i class="fab fa-fw fa-mastodon"></i> Mastodon</a> <br />
 <a class="author-social" href="tel:+17322002705"><i class="fa fa-fw fa-phone-square"></i> Phone: +1-732-200-2705</a>
 </p>
 </div>
