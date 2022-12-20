@@ -15,9 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Bob Kopp
 email: robert-dot-kopp-at-rutgers.edu
-twitter: bobkopp
 description: "Climate and sea-level scientist and climate policy scholar at Rutgers University"
-twitter_username: bobkopp
 github_username: bobkopp
 minimal_mistakes_skin: default
 search: true
@@ -61,7 +59,6 @@ author:
   mastodon:
     id: bobkopp@fediscience.org
     url: https://fediscience.org/@bobkopp
-  twitter: bobkopp
   orcid: 0000-0003-4016-9428
   google:
     scholar: ceifbhUAAAAJ
@@ -79,9 +76,6 @@ footer:
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
       url: "https://fediscience.org/@bobkopp"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/bobkopp"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/bobkopp"
