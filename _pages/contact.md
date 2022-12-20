@@ -20,16 +20,8 @@ Wright Labs, 610 Taylor Road
 Rutgers University  
 Piscataway, NJ 08854-8066, USA
 
-### Offices 
+### Offices
 
-Marine and Coastal Sciences, Rm. 205A  
-Institute of Earth, Ocean, and Atmospheric Sciences   
-71 Dudley Road, Cook Campus, New Brunswick, NJ  
-&nbsp;  
 Wright Labs, Rm. 225  
 Department of Earth & Planetary Sciences  
 610 Taylor Road, Busch Campus, Piscataway, NJ  
-&nbsp;  
-Civic Square Building, Rm. 248  
-Bloustein School of Planning & Public Policy  
-33 Livingston Ave., New Brunswick, NJ
