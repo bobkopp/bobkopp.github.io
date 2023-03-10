@@ -3,7 +3,7 @@ title: "Climate extension could unlock the higher education sector as a catalyst
 excerpt: "With a land-grant-style and land-grant-scale investment in climate extension, we could really unlock the role of higher education as a catalyst of societal climate action."
 comments: false
 ---
-*These remarks were presented at the White House Summit on Campus- and Community-Scale Climate Change Solutions  on March 8, 2023. (As prepared)*
+*These remarks were presented at the [White House Summit on Campus- and Community-Scale Climate Change Solutions](https://youtu.be/tVVds9zcloU?t=5666)  on March 8, 2023. (As prepared)*
 
 The land-grant model rests on three pillars that came together over the half-century between 1862 and 1914. 
 
