@@ -26,6 +26,7 @@ Prior to joining the Rutgers faculty, I served as a [AAAS Science & Technology P
  
 #### [In the media](http://www.google.com/search?hl=en&gl=us&tbm=nws&q="Robert+Kopp"+OR+"Bob+Kopp"+Rutgers)
 
+* [Deep Convection (August 2023)](https://deep-convection.org/2023/08/28/episode-3-bob-kopp/)
 * [Radio Times [WHYY] (August 2021)](https://bit.ly/3CJi5ds)
 * [Climate Now (April 2021)](https://bit.ly/3b5iria)
 * [Science on the Hill (June 2020)](https://bit.ly/2YbqNPi)
