@@ -31,22 +31,10 @@ Prior to joining the Rutgers faculty, I served as a [AAAS Science & Technology P
 * [Climate Now (April 2021)](https://bit.ly/3b5iria)
 * [Science on the Hill (June 2020)](https://bit.ly/2YbqNPi)
 * [NJTV News (December 2019)](https://bit.ly/35PRhXP)
-* [_The Conversation_ (April 2019)](https://theconversation.com/climate-research-needs-to-change-to-help-communities-plan-for-the-future-113427)
 * [Resources Radio (January 2019)](https://soundcloud.com/resourcesradio/demystifying-sea-level-rise-with-robert-kopp-of-rutgers-university)
 * [Radio Times [WHYY] (November 2018)](https://goo.gl/H2Q4oa)
 * [Science Friday (November 2018)](https://goo.gl/JVgHNp)
 * [E&E News Off Topic (November 2018)](https://goo.gl/M2FfqL)
-* [Reddit AMA (December 2017)](https://doi.org/10.15200/winn.151213.32636)
-* [_New York Times_ (November 2017)](https://nyti.ms/2hLb7MS)
-* [_The Conversation_ (June 2017)](https://goo.gl/EvRo1X)
-* [_The Conversation_ (November 2016)](https://goo.gl/OWovmZ)
-* [_The Conversation_ (June 2016)](https://goo.gl/nOadXV)
-* [Radio Times with Marty Moss-Coane [WHYY] (February 2016)](http://goo.gl/zWLUsW)
-*  [PRI's The World (February 2016)](http://goo.gl/RuhXl3)
-* [_New York Times_ Sunday Review (June 2015)](http://nyti.ms/1JyXkk7)
-* [_Rutgers Today_ (Dec. 2014)](http://news.rutgers.edu/feature/earth-scientists-urgent-mission-takes-shape-rutgers/20141217)
-* [Radio Times with Marty Moss-Coane [WHYY] (July 2014)](http://goo.gl/DfPnc9)
-* [_New York Times_ Sunday Review (Nov. 2012)](http://nyti.ms/TcArGg)
 
 <div id="index" style="width: 100%" >
      {% for post in site.posts limit:1 %}
