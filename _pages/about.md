@@ -7,7 +7,7 @@ title: "About"
 * [Contact](/contact/)
 * [Press](http://www.google.com/search?hl=en&gl=us&tbm=nws&q=%22Robert+Kopp%22+OR+%22Bob+Kopp%22+Rutgers)
 
-Robert Kopp is a climate scientist who serves at [Rutgers University](http://www.rutgers.edu/) as a distinguished professor in the [Department of Earth & Planetary Sciences](http://geology.rutgers.edu/) and co-director of the [University Office of Climate Action](https://www.rutgers.edu/strategy/office-of-climate-action).  
+Robert Kopp is a climate scientist who serves at [Rutgers University](http://www.rutgers.edu/) as a distinguished professor in the [Department of Earth & Planetary Sciences](http://geology.rutgers.edu/).  
 
 He directs the [Megalopolitan Coastal Transformation Hub](https://www.coastalhub.org/) (MACH), a National Science Foundation-funded, 13-institution consortium led by Rutgers University. MACH works within the Philadelphia-New York City-New Jersey region to both 1) facilitate flexible, equitable, and robust multidecadal planning to manage climate risk, and 2) advance the scientific understanding of how interactions among coastal climate hazards, changing landforms, and human decisions shape climate risk.  It aims to build an academic/stakeholder partnership model that provides insights for just, equitable, and inclusive climate action around the world. 
 
@@ -21,7 +21,7 @@ Professor Kopp is a lead author of the [Intergovernmental Panel on Climate Chang
 
 He has served on sea-level rise expert groups for the states of [New Jersey](https://climatechange.rutgers.edu/resources/climate-change-and-new-jersey), [Maryland](http://www.umces.edu/sea-level) and [California](http://www.oceansciencetrust.org/projects/updating-californias-sea-level-rise-guidance/) and the cities of [Boston](https://www.boston.gov/departments/environment/climate-ready-boston) and [New York](http://www1.nyc.gov/site/orr/challenges/nyc-panel-on-climate-change.page).
 
-From 2017-2021, Professor Kopp served as director of the [Rutgers Institute of Earth, Ocean, and Atmospheric Sciences (EOAS)](http://eoas.rutgers.edu/). 
+From 2021-2023, Professor Kopp served as Founding Co-Director of the [Rutgers Office of Climate Action](https://climateaction.rutgers.edu/). From 2017-2021, Professor Kopp served as director of the [Rutgers Institute of Earth, Ocean, and Atmospheric Sciences (EOAS)](http://eoas.rutgers.edu/). 
 In addition to the Rutgers  [Department of Earth & Planetary Sciences](http://geology.rutgers.edu/) and EOAS,
 he is a member of the [Rutgers Climate Institute](http://climatechange.rutgers.edu) and the [Rutgers Energy Institute](http://rei.rutgers.edu/). He is affiliated with Rutgers graduate programs in [Atmospheric Sciences](http://atmos.rutgers.edu), [Geological Sciences](http://eps.rutgers.edu), [Oceanography](http://marine.rutgers.edu), [Statistics](http://statistics.rutgers.edu), and [Planning and Public Policy](http://policy.rutgers.edu/).
 

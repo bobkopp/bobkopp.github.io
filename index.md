@@ -8,7 +8,7 @@ author_profile: true
 ---
 
 I am a climate and sea-level scientist and a climate policy scholar. I serve at [Rutgers University](http://www.rutgers.edu/) as a distinguished professor in
-the [Department of Earth & Planetary Sciences](http://geology.rutgers.edu/) and as co-director of the [University Office of Climate Action](https://www.rutgers.edu/strategy/office-of-climate-action).  
+the [Department of Earth & Planetary Sciences](http://eps.rutgers.edu/).  
 
 I direct the [Megalopolitan Coastal Transformation Hub](https://www.coastalhub.org/) (MACH), an NSF-funded consortium led by Rutgers. MACH works within the Philadelphia-New York City-New Jersey region to both 1) facilitate flexible, equitable, and robust multidecadal planning to manage climate risk, and 2) advance the scientific understanding of how interactions among coastal climate hazards, changing landforms, and human decisions shape climate risk.  
 
@@ -18,7 +18,7 @@ My [research](research/) focuses on understanding uncertainty in past and future
 
 I am a lead author of the [Intergovernmental Panel on Climate Change’s](http://www.ipcc.ch/) 2021 Sixth Assessment Report, the U.S. Global Change Research Program's 2017 [Fourth National Climate Assessment](https://science2017.globalchange.gov) and [_Economic Risks of Climate Change: An American Prospectus_](http://www.climateprospectus.org/). I have also served on sea-level rise expert groups for several states and cities. 
 
-From 2017-2021, I served as director of the [Rutgers Institute of Earth, Ocean, and Atmospheric Sciences (EOAS)](http://eoas.rutgers.edu/). In addition to the  [Department of Earth & Planetary Sciences](http://geology.rutgers.edu/) and EOAS, I am also a member of the [Rutgers Climate Institute](http://climatechange.rutgers.edu) and the [Rutgers Energy Institute](http://rei.rutgers.edu/). I am affiliated with Rutgers graduate programs in [Atmospheric Sciences](http://atmos.rutgers.edu), [Geological Sciences](http://eps.rutgers.edu), [Oceanography](http://marine.rutgers.edu), [Statistics](http://statistics.rutgers.edu), and [Planning and Public Policy](http://policy.rutgers.edu/).
+From 2021-2023, I served as Founding Co-Director of the [Rutgers Office of Climate Action](https://climateaction.rutgers.edu/). From 2017-2021, I served as director of the [Rutgers Institute of Earth, Ocean, and Atmospheric Sciences (EOAS)](http://eoas.rutgers.edu/). In addition to the  [Department of Earth & Planetary Sciences](http://geology.rutgers.edu/) and EOAS, I am also a member of the [Rutgers Climate Institute](http://climatechange.rutgers.edu) and the [Rutgers Energy Institute](http://rei.rutgers.edu/). I am affiliated with Rutgers graduate programs in [Atmospheric Sciences](http://atmos.rutgers.edu), [Geological Sciences](http://eps.rutgers.edu), [Oceanography](http://marine.rutgers.edu), [Statistics](http://statistics.rutgers.edu), and [Planning and Public Policy](http://policy.rutgers.edu/).
 
 
 Prior to joining the Rutgers faculty, I served as a [AAAS Science & Technology Policy Fellow](http://fellowships.aaas.org/) in the [U.S. ](http://www.energy.gov)[Department of Energy](http://www.energy.gov)'s Office of Policy and International Affairs and as a [Science, Technology, and Environmental Policy](http://www.princeton.edu/step/) postdoctoral research fellow at Princeton University. I received my Ph.D. in geobiology from Caltech and my undergraduate degree in geophysical sciences from the University of Chicago. 
