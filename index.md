@@ -8,7 +8,7 @@ author_profile: true
 ---
 
 I am a climate and sea-level scientist and a climate policy scholar. I serve at [Rutgers University](http://www.rutgers.edu/) as a distinguished professor in
-the [Department of Earth & Planetary Sciences](http://eps.rutgers.edu/).  
+the [Department of Earth & Planetary Sciences](http://eps.rutgers.edu/).  I lead Rutgers' [Earth System Science and Policy Lab](https://earthscipol.net/); please see the Lab website if you are interested in our work or in joining our team. 
 
 I direct the [Megalopolitan Coastal Transformation Hub](https://www.coastalhub.org/) (MACH), an NSF-funded consortium led by Rutgers. MACH works within the Philadelphia-New York City-New Jersey region to both 1) facilitate flexible, equitable, and robust multidecadal planning to manage climate risk, and 2) advance the scientific understanding of how interactions among coastal climate hazards, changing landforms, and human decisions shape climate risk.  
 
