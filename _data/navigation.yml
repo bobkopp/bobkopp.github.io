@@ -9,5 +9,8 @@ main:
 - title: CV
   url: /assets/cv.pdf
 
+- title: Blog
+  url: https://blog.bobkopp.net/
+  
 - title: Contact
   url: /contact/
