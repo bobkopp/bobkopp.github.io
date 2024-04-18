@@ -34,7 +34,7 @@ Prior to joining the Rutgers faculty, I served as a [AAAS Science & Technology P
 * [Resources Radio (January 2019)](https://soundcloud.com/resourcesradio/demystifying-sea-level-rise-with-robert-kopp-of-rutgers-university)
 * [Radio Times [WHYY] (November 2018)](https://goo.gl/H2Q4oa)
 * [Science Friday (November 2018)](https://goo.gl/JVgHNp)
-* [E&E News Off Topic (November 2018)](https://goo.gl/M2FfqL)
+* [E&E News Off Topic (November 2018)](https://www.eenews.net/articles/fact-has-become-a-political-issue/)
 
 <div id="index" style="width: 100%" >
      {% for post in site.posts limit:1 %}
