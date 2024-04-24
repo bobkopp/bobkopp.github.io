@@ -15,6 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 title: Bob Kopp
 email: robert-dot-kopp-at-rutgers.edu
+bluesky:
+  id: "@bobkopp.net"
+  url: https://bsky.app/profile/bobkopp.net
 mastodon:
   id: bobkopp@fediscience.org
   url: https://fediscience.org/@bobkopp
