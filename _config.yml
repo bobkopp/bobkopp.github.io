@@ -62,6 +62,9 @@ plugins:
 author:
   name   : "Bob Kopp"
   email: robert-dot-kopp-at-rutgers-dot-edu
+  bluesky:
+    id: @bobkopp.net
+    url: https://bsky.app/profile/bobkopp.net
   mastodon:
     id: bobkopp@fediscience.org
     url: https://fediscience.org/@bobkopp
@@ -79,6 +82,9 @@ author:
 
 footer:
   links:
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/bobkopp.net"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
       url: "https://fediscience.org/@bobkopp"
