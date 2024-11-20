@@ -18,9 +18,6 @@ email: robert-dot-kopp-at-rutgers.edu
 bluesky:
   id: "@bobkopp.net"
   url: https://bsky.app/profile/bobkopp.net
-mastodon:
-  id: bobkopp@fediscience.org
-  url: https://fediscience.org/@bobkopp
 description: "Climate and sea-level scientist and climate policy scholar at Rutgers University"
 github_username: bobkopp
 minimal_mistakes_skin: default
@@ -65,9 +62,6 @@ author:
   bluesky:
     id: "@bobkopp.net"
     url: https://bsky.app/profile/bobkopp.net
-  mastodon:
-    id: bobkopp@fediscience.org
-    url: https://fediscience.org/@bobkopp
   orcid: 0000-0003-4016-9428
   google:
     scholar: ceifbhUAAAAJ
@@ -78,16 +72,13 @@ author:
     ad-slot: 
   orcid: 0000-0003-4016-9428
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Climate and sea-level scientist and climate policy scholar at <a href=\"http://www.rutgers.edu/\">Rutgers University</a>'s <a href=\"http://eps.rutgers.edu/\">Dept. of Earth & Planetary Sciences<a> and <a href=\"http://eoas.rutgers.edu/\">Rutgers Institute of Earth, Ocean & Atmospheric Sciences</a>."
+  bio    : "Climate and sea-level scientist and climate policy scholar at <a href=\"http://www.rutgers.edu/\">Rutgers University</a>'s <a href=\"http://eps.rutgers.edu/\">Dept. of Earth & Planetary Sciences<a> and <a href=\"http://rcei.rutgers.edu/\">Rutgers Climate & Energy Institute</a>."
 
 footer:
   links:
     - label: "Bluesky"
       icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/bobkopp.net"
-    - label: "Mastodon"
-      icon: "fab fa-fw fa-mastodon"
-      url: "https://fediscience.org/@bobkopp"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/bobkopp"

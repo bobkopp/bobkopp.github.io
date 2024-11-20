@@ -8,7 +8,6 @@ author-profile: true
 <p>
   <a href="mailto:{{ site.email }}" class="author-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a> <br />
  <a href="{{ site.bluesky.url }}" class="author-social" target="_blank"><i class="fab fa-fw fa-bluesky"></i> Bluesky</a> <br />
- <a href="{{ site.mastodon.url }}" class="author-social" target="_blank"><i class="fab fa-fw fa-mastodon"></i> Mastodon</a> <br />
 <a class="author-social" href="tel:+17322002705"><i class="fa fa-fw fa-phone-square"></i> Phone: +1-732-200-2705</a>
 </p>
 </div>
