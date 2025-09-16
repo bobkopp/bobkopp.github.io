@@ -20,11 +20,6 @@ Wright Labs, 610 Taylor Road
 Rutgers University  
 Piscataway, NJ 08854-8066, USA
 
-### Office
-
-Wright Labs, Rm. 225  
-Busch Campus
-
 ### Email instructions
 
 I receive many emails and am not always able to stay on top of my correspondence. 
