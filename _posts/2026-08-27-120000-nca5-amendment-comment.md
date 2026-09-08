@@ -34,7 +34,7 @@ Information Quality Act.
 
 The amendment is correct that RCP8.5 and SSP5-8.5 should not be
 interpreted as "expected, baseline, business-as-usual, likely, \[or\]
-central" 21<sup>st<sup> century emissions future. RCP8.5 was developed to
+central" 21<sup>st</sup> century emissions future. RCP8.5 was developed to
 represent the radiative forcing associated with the 90<sup>th</sup> percentile of
 reference scenarios in the published literature as of September 2007, so
 from its conception was not intended to represent 'expected', 'likely'
