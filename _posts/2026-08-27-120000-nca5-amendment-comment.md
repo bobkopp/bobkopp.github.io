@@ -5,8 +5,8 @@ comments: false
 ---
 August 27, 2026
 
-Dr. Matthew Wielicki\ 
-Director, U.S. Global Change Research Program\ 
+Dr. Matthew Wielicki  
+Director, U.S. Global Change Research Program  
 Office of Science and Technology Policy
 
 **Re: RFI Response: Proposed Amendment to NCA5 (91 FR 54893)**
@@ -34,22 +34,22 @@ Information Quality Act.
 
 The amendment is correct that RCP8.5 and SSP5-8.5 should not be
 interpreted as "expected, baseline, business-as-usual, likely, \[or\]
-central" 21^st^ century emissions future. RCP8.5 was developed to
-represent the radiative forcing associated with the 90^th^ percentile of
+central" 21<sup>st<sup> century emissions future. RCP8.5 was developed to
+represent the radiative forcing associated with the 90<sup>th</sup> percentile of
 reference scenarios in the published literature as of September 2007, so
 from its conception was not intended to represent 'expected', 'likely'
-or 'central' emissions.[^1] The 8.5 W/m^2^ 2100 forcing value associated
+or 'central' emissions.[^1] The 8.5 W/m<sup>2</sup> 2100 forcing value associated
 with SSP5-8.5 was chosen to provide continuity with RCP8.5. Thus, RCP8.5
-and SSP5-8.5, in terms of radiative forcing, represent the 90^th^
+and SSP5-8.5, in terms of radiative forcing, represent the 90<sup>th</sup>
 percentile of projected no-policy emissions as understood nearly two
 decades ago.
 
 Technological and policy advances since then have revised their
 likelihood downward: For example, the probabilistic Resources for the
 Future Socioeconomic Projections (RFF-SPs) indicate estimate a median
-radiative forcing in 2100 of 5.1 W/m^2^ (90% credible range of 3.3-7.1
-W/m^2^), with a 0.5% chance of exceeding 8.5 W/m^2^ and a 1% chance of
-being below 2.6 W/m^2^.[^2]
+radiative forcing in 2100 of 5.1 W/m<sup>2</sup> (90% credible range of 3.3-7.1
+W/m<sup>2</sup>), with a 0.5% chance of exceeding 8.5 W/m<sup>2</sup> and a 1% chance of
+being below 2.6 W/m<sup>2</sup>.[^2]
 
 However, this observation is consistent with NCA5. Throughout NCA5 and
 its supporting materials, RCP8.5 and SSP5-8.5 are identified as the
@@ -90,12 +90,12 @@ samples for assessing physical responses.
 
 In particular, NCA5 presents projections associated with warming levels
 of 1.5°C, 2.0°C, 3.0°C and 4.0°C above pre-industrial levels. This range
-here is similar to the 5^th^-95^th^ percentile projections for 2100
+here is similar to the 5<sup>th</sup>-95<sup>th</sup> percentile projections for 2100
 under the RFF-SPs, which factor into account potential changes in global
 policy trends,[^4] and the upper three warming levels are consistent
 with the range of projections under current policy and technological
 trends (e.g., Rhodium Climate Outlook, 2025: median of 2.8°C in 2100,
-5^th^-95^th^ percentile range of 2.0-3.9°C).[^5] Because different
+5<sup>th</sup>-95<sup>th</sup> percentile range of 2.0-3.9°C).[^5] Because different
 full-complexity global climate models have different climate
 sensitivities, including a very high emissions scenario increases the
 number of models able to provide information regarding the consequences
@@ -136,8 +136,8 @@ examine trends over periods extending up to a century. NCA5\'s Appendix
 considering conditions beyond 2100 because comprehensive post-2100
 simulations remain relatively limited. Note that in the new CMIP7
 ScenarioMIP scenarios, which the amendment cites as a reference,
-projected radiative forcing in the H scenario exceeds 8.5 W/m^2^ within
-the first half of the 22^nd^ century -- these are conditions that can be
+projected radiative forcing in the H scenario exceeds 8.5 W/m<sup>2</sup> within
+the first half of the 22<sup>nd</sup> century -- these are conditions that can be
 assessed in scenario runs ending in 2100 only by references to the Very
 High scenario.[^9]
 
@@ -289,49 +289,49 @@ should influence federal climate assessment.
 
 Respectfully submitted,
 
-**Robert E. Kopp, Ph.D.**\ 
-Distinguished Professor of Earth and Planetary Sciences\ 
+**Robert E. Kopp, Ph.D.**  
+Distinguished Professor of Earth and Planetary Sciences  
 Rutgers University--New Brunswick
 
 *(Affiliation included for identification purposes only. The opinions
 expressed herein are my own, not those of my employer.)*
 
 [^1]: Richard H. Moss et al., *The next Generation of Scenarios for
-    Climate Change Research and Assessment*, 463 [Nature]{.smallcaps}
+    Climate Change Research and Assessment*, 463 Nature
     747 (2010), http://www.nature.com/doifinder/10.1038/nature08823.
 
 [^2]: Marcus C. Sarofim et al., *High Radiative Forcing Climate Scenario
-    Relevance Analyzed with a Ten-Million-Member Ensemble*, 15 [Nat
-    Commun]{.smallcaps} 8185 (2024),
+    Relevance Analyzed with a Ten-Million-Member Ensemble*, 15 Nat
+    Commun 8185 (2024),
     https://www.nature.com/articles/s41467-024-52437-9.
 
 [^3]: *Id.*
 
 [^4]: Kevin Rennert et al., *Comprehensive Evidence Implies a Higher
-    Social Cost of CO2*, 610 [Nature]{.smallcaps} 687 (2022),
+    Social Cost of CO2*, 610 Nature 687 (2022),
     https://www.nature.com/articles/s41586-022-05224-9.
 
-[^5]: [Rhodium Group]{.smallcaps}, [Rhodium Climate Outlook 2025:
+[^5]: [Rhodium Group]{.smallcaps}, Rhodium Climate Outlook 2025:
     Probabilistic Global Emissions and Energy Baseline
-    Projections]{.smallcaps} (2025), https://climateoutlook.rhg.com/.
+    Projections (2025), https://climateoutlook.rhg.com/.
 
 [^6]: Note that the IPCC Sixth Assessment Report assessed very likely
     range for late-century warming for SSP5-8.5 is 3.3-5.7°C, implying
     there are some models that provide data regarding the state of the
     world under 4°C warming only when strongly forced. IPCC, *Summary
-    for Policymakers*, *in* [Climate change 2021: The physical science
-    basis]{.smallcaps} 3 (V. Masson-Delmotte et al. eds., 2021).
+    for Policymakers*, *in* Climate change 2021: The physical science
+    basis (V. Masson-Delmotte et al. eds., 2021).
 
 [^7]: For example, Tamma Carleton et al., *Valuing the Global Mortality
     Consequences of Climate Change Accounting for Adaptation Costs and
-    Benefits*, 137 [Quarterly Journal of Economics]{.smallcaps} 2037
+    Benefits*, 137 Quarterly Journal of Economics 2037
     (2022).
 
 [^8]: Sarofim et al., *supra* note 2.
 
 [^9]: Detlef P. Van Vuuren et al., *The Scenario Model Intercomparison
-    Project for CMIP7 (ScenarioMIP-CMIP7)*, 19 [Geoscientific Model
-    Development]{.smallcaps} 2627 (2026),
+    Project for CMIP7 (ScenarioMIP-CMIP7)*, 19 Geoscientific Model
+    Development 2627 (2026),
     https://gmd.copernicus.org/articles/19/2627/2026/. Note that the new
     scenarios use a letter-based labeling scheme; the H scenario is the
     highest of the scenarios.
@@ -340,4 +340,4 @@ expressed herein are my own, not those of my employer.)*
 
 [^11]: Keywan Riahi et al., *The Shared Socioeconomic Pathways and Their
     Energy, Land Use, and Greenhouse Gas Emissions Implications: An
-    Overview*, 42 [Global Environmental Change]{.smallcaps} 153 (2017).
+    Overview*, 42 Global Environmental Change 153 (2017).
